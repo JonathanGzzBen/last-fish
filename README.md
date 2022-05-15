@@ -1,3 +1,13 @@
+# Last Fish
+
+This a project made for the **Hack The Ocean** hackathon. Backend can be found in [marine-preservation-api](https://github.com/JonathanGzzBen/marine-preservation-api).
+
+## Screenshots
+
+![](screenshots/screenshot_home.jpeg)
+![](screenshots/screenshot_home2.jpeg)
+![](screenshots/screenshot_marinespecies.jpeg)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
