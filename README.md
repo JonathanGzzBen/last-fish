@@ -7,6 +7,8 @@ This a project made for the **Hack The Ocean** hackathon. Backend can be found i
 ![](screenshots/screenshot_home.jpeg)
 ![](screenshots/screenshot_home2.jpeg)
 ![](screenshots/screenshot_marinespecies.jpeg)
+![image](https://user-images.githubusercontent.com/99059604/168496112-959d33d2-c532-4c69-9957-a365a52e3f13.png)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
