@@ -33,7 +33,7 @@ export default function MarineEspecies() {
       </Head>
       <Layout>
         {/* Top */}
-        <div className="columns">
+        <div className="columns pb-5">
           <div className="column">
             <h1 className="title is-1" style={{ fontSize: "60px" }}>
               <strong>Endangered Fishes</strong>

@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <Layout>
         {/* Top */}
-        <div className="columns">
+        <div className="columns pb-5">
           <div className="column">
             <h1 className="title is-1" style={{ fontSize: "60px" }}>
               <strong>Hack The Ocean</strong>
@@ -33,11 +33,26 @@ export default function Home() {
                   />
                 </figure>
               </div>
-              <p className="title">Why should we care about the ocean?</p>
+              <p className="title">
+                Why should we care for marine animals in danger of extinction?
+              </p>
               <div className="card-content">
                 <div className="content">
-                  The ocean produces over half of the world&apos;s oxygen and
-                  absorbs 50 times more carbon dioxide than our atmosphere.
+                  The science-backed reasons for saving endangered species are
+                  important:
+                  <ul>
+                    <li>
+                      They are a source of medicines, from antibiotics to
+                      anti-cancer agents.
+                    </li>
+                    <li>
+                      They are the first signal of serious environmental issues.
+                    </li>
+                    <li>
+                      They help keep crops (and by proxy, humans) healthy.
+                    </li>
+                    <li>They boost the economy</li>
+                  </ul>
                 </div>
               </div>
             </div>
@@ -52,14 +67,25 @@ export default function Home() {
                   />
                 </figure>
               </div>
-              <p className="title">What can we do to protect it?</p>
+              <p className="title">
+                Illegal, unreported and unregulated fishing
+              </p>
               <div className="card-content">
                 <div className="content">
-                  <ul>
-                    <li>Preserve water</li>
-                    <li>Reduce pollutants</li>
-                    <li>Reduce vehicle pollution</li>
-                  </ul>
+                  <p>
+                    Fishing industry observers believe IUU occurs in most
+                    fisheries, and accounts for up to 30% of total catches in
+                    some important fisheries.
+                  </p>
+                  <p>
+                    Almost Half of Illegal Fishing in the World Occur in
+                    Indonesia: according to the report of the FAO Fisheries and
+                    Aquaculture Department, illegal fishing has caused losses
+                    worth US$23 billion. About 30 percent of illegal fishing in
+                    the world occurred in Indonesia the illegal fishing trend
+                    will have negative implications on Indonesia because
+                    fisheries are one of the key food resources of the country
+                  </p>
                 </div>
               </div>
             </div>
@@ -74,10 +100,22 @@ export default function Home() {
                   />
                 </figure>
               </div>
+              <p className="title">Things we do that harm fish</p>
               <div className="card-content">
                 <div className="content">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                  Did you know that you are harming the fish? If you do one of
+                  the following activities, your are endangering many species:
+                  <ul>
+                    <li>You use a lot of plastic products</li>
+                    <li>Your carbon footprint is very high</li>
+                    <li>
+                      You buy products whose manufacture comes from turtles,
+                      sharks, whales or any type of marine species
+                    </li>
+                    <li>You throw cigarette butts in the street</li>
+                    <li>You buy exotic fish or marine animals</li>
+                    <li>You do not use biodegradable products on the beach</li>
+                  </ul>
                 </div>
               </div>
             </div>
