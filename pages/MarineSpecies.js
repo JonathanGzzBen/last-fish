@@ -14,7 +14,7 @@ export default function MarineEspecies() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Marine Species</title>
       </Head>
       <Layout>
         {/* Top */}
