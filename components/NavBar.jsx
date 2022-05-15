@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 const Navbar = () => {
   return (
@@ -29,8 +30,12 @@ const Navbar = () => {
 
       <div id="navbarBasicExample" className="navbar-menu">
         <div className="navbar-start">
-          <a className="navbar-item">Home</a>
-          <a className="navbar-item">Documentation</a>
+          <Link className="navbar-item" href={"/"}>
+            <a className="navbar-item">Home</a>
+          </Link>
+          <Link className="navbar-item" href={"/MarineSpecies"}>
+            <a className="navbar-item">Marine Species</a>
+          </Link>
         </div>
       </div>
     </nav>

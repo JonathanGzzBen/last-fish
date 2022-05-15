@@ -1,12 +1,7 @@
 import Head from "next/head";
 import Layout from "../components/Layout";
-import { useEffect } from "react";
-import { getAllMarineSpecies } from "../services/marinespecies";
 
 export default function Home() {
-  useEffect(() => {
-    getAllMarineSpecies().then((marinespecies) => console.log(marinespecies));
-  }, []);
   return (
     <>
       <Head>
